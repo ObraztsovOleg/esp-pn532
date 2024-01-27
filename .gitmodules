@@ -1,0 +1,6 @@
+[submodule "pn532"]
+	path = pn532
+	url = https://github.com/ObraztsovOleg/pn532.git
+[submodule "esp-hal"]
+	path = esp-hal
+	url = https://github.com/ObraztsovOleg/esp-hal.git
